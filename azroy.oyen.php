@@ -1,1 +1,1 @@
-<? echo "hi Sayang" ?/>
+<? echo "hi" ?/>
