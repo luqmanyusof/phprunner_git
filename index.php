@@ -4,4 +4,5 @@
 	$nama = luqman;
 	$age = 36;
 	$loc = "Cyber";
+	$var = 1;
 ?>
